@@ -1,8 +1,8 @@
-# Chatter-Box
-I-Translator is an Android and Ios application that can translate voice, text, image text, and end-to-end chat.
+# EZchat
+I-Translator is an Android and IOS application that can translate voice, text, image text, and end-to-end chat.
 
 
-# Chatter Box: An Application for Text, Voice, and Image Translation
+# EZchat: An Application for Text, Voice, and Image Translation
 Chatter Box is an Android application that is capable of Voice, Text, and Image Text Translation as well as a Chatting function with an in-built translator that transforms the message to the user's default language. It supports nine different languages.
 
 # Overview
