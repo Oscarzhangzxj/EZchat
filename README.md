@@ -25,9 +25,7 @@ The app consists of five major functions:
 
 Google specch recognition
 
-<img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226348-5315647a-14f0-424b-be74-45f548ced5ad.png">
-
-<img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226456-acca8cf8-44f7-49d1-8925-54192fd43f7d.png">
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226348-5315647a-14f0-424b-be74-45f548ced5ad.png"> <img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226456-acca8cf8-44f7-49d1-8925-54192fd43f7d.png">
 
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226521-e0f9dd29-c2b2-465e-97f6-2fdd802c6b1a.png">
 
