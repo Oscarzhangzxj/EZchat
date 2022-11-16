@@ -4,7 +4,7 @@ EZchat is an application that is capable of Voice, Text, and Image Text Translat
 # Overview
 The app consists of five major functions:
 
-~ Sign-in: The user enters the app user phone number and confirms it using an OTP. They also supply their name and, if desired, a profile photo.
+- Sign-in: The user enters the app user phone number and confirms it using an OTP. They also supply their name and, if desired, a profile photo.
 
 ` Voice Translation: It transforms your speech to different languages and outputs the translation as speech with the translated text.
 
