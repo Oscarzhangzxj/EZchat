@@ -6,21 +6,21 @@ The app consists of five major functions:
 
 - Sign-in: The user enters the app user phone number and confirms it using an OTP. They also supply their name and, if desired, a profile photo.
 
-` Voice Translation: It transforms your speech to different languages and outputs the translation as speech with the translated text.
+- Voice Translation: It transforms your speech to different languages and outputs the translation as speech with the translated text.
 
-` Text Translation: It transforms your Text to various languages and returns the translation as Text.
+- Text Translation: It transforms your Text to various languages and returns the translation as Text.
 
-` Image Text translation: It identifies the text in a picture and then translates it into the desired language.
+- Image Text translation: It identifies the text in a picture and then translates it into the desired language.
 
-` Chatting: This feature allows users to chat with other people by using their phone numbers. The message is translated into additional user default languages in this case.
+- Chatting: This feature allows users to chat with other people by using their phone numbers. The message is translated into additional user default languages in this case.
 
 # Features
-Supports translation between any two of nine available languages
-Supports features such as Speech-to-Speech Translation with speed and pitch adjustments
-It is quite safe because Sign-in or Register using a Mobile Phone Number and OTP Authentication
+- Translates between any two of nine languages.
+- Speech-to-speech translation with speed and pitch adjustments is supported.
+- It is quite safe because Sign in or Register using your phone number for OTP verification.
+- Simple to use.
+- Assist people in understanding and learning other languages.
 
-# Simple to use
+# API Used
 
-Help people understand and acquire many languages
-API Utilized the Yandex Translate Web API at https://translate.yandex.com/ and the OCR API at https://ocr.space/ocrapi.
-Google speech recognition
+Google specch recognition
