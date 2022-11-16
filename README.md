@@ -24,3 +24,20 @@ The app consists of five major functions:
 # API Used
 
 Google specch recognition
+
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/112965000/202226348-5315647a-14f0-424b-be74-45f548ced5ad.png">
+
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/112965000/202226456-acca8cf8-44f7-49d1-8925-54192fd43f7d.png">
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/112965000/202226521-e0f9dd29-c2b2-465e-97f6-2fdd802c6b1a.png">
+
+<img width="249" alt="image" src="https://user-images.githubusercontent.com/112965000/202226581-20b28a0a-dd9e-4674-96ca-c89cfeeefd33.png">
+
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/112965000/202226644-16e34ea5-593a-4555-84a6-560a64dc74b2.png">
+
+<img width="277" alt="image" src="https://user-images.githubusercontent.com/112965000/202226706-c041e855-6a30-4858-8c1e-550ae3a522b8.png">
+
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/112965000/202226773-c2dd2ae8-5f7a-4026-8b22-0b39e02f5f88.png">
+
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/112965000/202226809-8ee158b3-ef10-49bf-a2f5-0737e610611f.png">
+
